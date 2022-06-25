@@ -30,9 +30,12 @@ public class CalculatorTest {
                 int result = y.divideTwoNumber(4,2);
                 Assertions.assertEquals(result,2);
         }
+        //test for code
         @Test
         public void test_multiplyTwoNumber(){
                 int result = y.multiplyTwoNumber(4,2);
+
+                ///
                 Assertions.assertEquals(result,8);
         }
 
