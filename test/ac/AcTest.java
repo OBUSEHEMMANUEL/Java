@@ -19,8 +19,12 @@ public class AcTest {
     @Test
     public void test_isOn() throws Exception {
         String result = ac.isOn("on");
-
         Assertions.assertEquals(result, "on");
 
+    }
+    @Test
+    public void test_isOff() throws Exception {
+        String result = ac.isOff("off");
+        Assertions.assertEquals(result, "off");
     }
 }
