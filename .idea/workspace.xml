@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="66677d1c-f6bc-4b73-9ed8-12c9527b8111" name="Changes" comment="">
+    <list default="true" id="66677d1c-f6bc-4b73-9ed8-12c9527b8111" name="Changes" comment="account">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -12,8 +12,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JUnit5 Test Class" />
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
@@ -49,10 +49,45 @@
       <recent name="" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="ac" />
       <recent name="Calculator" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="tddClass" />
+    </key>
   </component>
-  <component name="RunManager" selected="JUnit.CalculatorTest">
+  <component name="RunManager" selected="JUnit.AcTest.test_isOn">
+    <configuration name="AcTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ac.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ac" />
+      <option name="MAIN_CLASS_NAME" value="ac.AcTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AcTest.test_isOn" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ac.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ac" />
+      <option name="MAIN_CLASS_NAME" value="ac.AcTest" />
+      <option name="METHOD_NAME" value="test_isOn" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CalculatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java" />
       <extension name="coverage">
@@ -64,22 +99,6 @@
       <option name="PACKAGE_NAME" value="Calculator" />
       <option name="MAIN_CLASS_NAME" value="Calculator.CalculatorTest" />
       <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CalculatorTest.test_addTwoNumber" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Calculator.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="Calculator" />
-      <option name="MAIN_CLASS_NAME" value="Calculator.CalculatorTest" />
-      <option name="METHOD_NAME" value="test_addTwoNumber" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -116,29 +135,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CalculatorTest.test_substractTwoNumber" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Calculator.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="Calculator" />
-      <option name="MAIN_CLASS_NAME" value="Calculator.CalculatorTest" />
-      <option name="METHOD_NAME" value="test_substractTwoNumber" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.AcTest.test_isOn" />
+        <item itemvalue="JUnit.AcTest" />
         <item itemvalue="JUnit.CalculatorTest" />
         <item itemvalue="JUnit.CalculatorTest.test_addTwoNumber1" />
         <item itemvalue="JUnit.CalculatorTest.test_multiplyTwoNumber" />
-        <item itemvalue="JUnit.CalculatorTest.test_substractTwoNumber" />
-        <item itemvalue="JUnit.CalculatorTest.test_addTwoNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -152,7 +155,16 @@
       <updated>1656153830343</updated>
       <workItem from="1656153832246" duration="11601000" />
       <workItem from="1656169689753" duration="690000" />
+      <workItem from="1656170416308" duration="5111000" />
     </task>
+    <task id="LOCAL-00001" summary="account">
+      <created>1656170534536</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1656170534536</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -168,5 +180,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="account" />
+    <option name="LAST_COMMIT_MESSAGE" value="account" />
   </component>
 </project>
