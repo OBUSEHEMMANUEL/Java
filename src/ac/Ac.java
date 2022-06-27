@@ -23,7 +23,7 @@ public class Ac {
     }
     public int increaseTemp(int temp) throws Exception {
         if (temp > 30){
-            throw new Exception("input invalid");
+            temp = 30;
         }
         else{
             System.out.println("Temperature increase to: "+ temp);
@@ -33,7 +33,8 @@ public class Ac {
 
     public int decreaseTemp(int temp) throws Exception {
         if (temp < 16) {
-            throw new Exception("Reached limit");
+          //  throw new Exception("Reached limit");
+            temp = 16;
         } else{
             System.out.println("Temperature decrease to: "+ temp);
         }
