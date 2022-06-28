@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="66677d1c-f6bc-4b73-9ed8-12c9527b8111" name="Changes" comment="push">
+    <list default="true" id="66677d1c-f6bc-4b73-9ed8-12c9527b8111" name="Changes" comment="GUESS GAME">
+      <change afterPath="$PROJECT_DIR$/src/Aircondition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bike/Bike.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/AirconditionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/bike/BikeTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ac/Ac.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ac/Ac.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/ac/AcTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/ac/AcTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,6 +16,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
         <option value="JUnit5 Test Class" />
       </list>
@@ -43,7 +46,8 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -51,15 +55,18 @@
       <recent name="" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="oop" />
+      <recent name="vehicle" />
+      <recent name="bike" />
+      <recent name="" />
       <recent name="ac" />
-      <recent name="Calculator" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="tddClass" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.AcTest.test_isOnInvalid">
-    <configuration name="AcTest.test_decreaseTempInvalid" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.AcTest.test_increaseTemp">
+    <configuration name="AcTest.test_increaseTemp" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java" />
       <extension name="coverage">
         <pattern>
@@ -69,71 +76,70 @@
       </extension>
       <option name="PACKAGE_NAME" value="ac" />
       <option name="MAIN_CLASS_NAME" value="ac.AcTest" />
-      <option name="METHOD_NAME" value="test_decreaseTempInvalid" />
+      <option name="METHOD_NAME" value="test_increaseTemp" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AcTest.test_increaseTempInavlid" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="BikeTest.test_decelerateGearOne" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ac.*" />
+          <option name="PATTERN" value="bike.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="ac" />
-      <option name="MAIN_CLASS_NAME" value="ac.AcTest" />
-      <option name="METHOD_NAME" value="test_increaseTempInavlid" />
+      <option name="PACKAGE_NAME" value="bike" />
+      <option name="MAIN_CLASS_NAME" value="bike.BikeTest" />
+      <option name="METHOD_NAME" value="test_decelerateGearOne" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AcTest.test_isOffInvalid" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ChildTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ac.*" />
+          <option name="PATTERN" value="oop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="ac" />
-      <option name="MAIN_CLASS_NAME" value="ac.AcTest" />
-      <option name="METHOD_NAME" value="test_isOffInvalid" />
+      <option name="PACKAGE_NAME" value="oop" />
+      <option name="MAIN_CLASS_NAME" value="oop.ChildTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ChildTest.test_name" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="oop" />
+      <option name="MAIN_CLASS_NAME" value="oop.ChildTest" />
+      <option name="METHOD_NAME" value="test_name" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AcTest.test_isOn" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="MotorTest.test_gearFour" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ac.*" />
+          <option name="PATTERN" value="vehicle.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="ac" />
-      <option name="MAIN_CLASS_NAME" value="ac.AcTest" />
-      <option name="METHOD_NAME" value="test_isOn" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="AcTest.test_isOnInvalid" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ac.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="ac" />
-      <option name="MAIN_CLASS_NAME" value="ac.AcTest" />
-      <option name="METHOD_NAME" value="test_isOnInvalid" />
+      <option name="PACKAGE_NAME" value="vehicle" />
+      <option name="MAIN_CLASS_NAME" value="vehicle.MotorTest" />
+      <option name="METHOD_NAME" value="test_gearFour" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -141,11 +147,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.AcTest.test_isOnInvalid" />
-        <item itemvalue="JUnit.AcTest.test_isOn" />
-        <item itemvalue="JUnit.AcTest.test_isOffInvalid" />
-        <item itemvalue="JUnit.AcTest.test_increaseTempInavlid" />
-        <item itemvalue="JUnit.AcTest.test_decreaseTempInvalid" />
+        <item itemvalue="JUnit.AcTest.test_increaseTemp" />
+        <item itemvalue="JUnit.ChildTest.test_name" />
+        <item itemvalue="JUnit.ChildTest" />
+        <item itemvalue="JUnit.BikeTest.test_decelerateGearOne" />
+        <item itemvalue="JUnit.MotorTest.test_gearFour" />
       </list>
     </recent_temporary>
   </component>
@@ -159,7 +165,9 @@
       <updated>1656153830343</updated>
       <workItem from="1656153832246" duration="11601000" />
       <workItem from="1656169689753" duration="690000" />
-      <workItem from="1656170416308" duration="8624000" />
+      <workItem from="1656170416308" duration="39669000" />
+      <workItem from="1656319460392" duration="23000" />
+      <workItem from="1656321503414" duration="13556000" />
     </task>
     <task id="LOCAL-00001" summary="account">
       <created>1656170534536</created>
@@ -189,7 +197,21 @@
       <option name="project" value="LOCAL" />
       <updated>1656179176829</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="AC test">
+      <created>1656181693972</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1656181693972</updated>
+    </task>
+    <task id="LOCAL-00006" summary="GUESS GAME">
+      <created>1656321609419</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1656321609419</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -209,6 +231,23 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="account" />
     <MESSAGE value="push" />
-    <option name="LAST_COMMIT_MESSAGE" value="push" />
+    <MESSAGE value="AC test" />
+    <MESSAGE value="GUESS GAME" />
+    <option name="LAST_COMMIT_MESSAGE" value="GUESS GAME" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/test/bike/BikeTest.java</url>
+          <line>34</line>
+          <properties class="bike.BikeTest" method="test_isOffInvalid">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
