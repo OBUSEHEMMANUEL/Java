@@ -108,6 +108,11 @@ public class ReceiptTest {
         for (int i =0; i <= 70; i++){
             System.out.print("=");
         }
+//        public int collectCash(){
+//            System.out.println("How much did the customer pay");
+//            payment = input.nextInt();
+//
+//        }
     }
 
 

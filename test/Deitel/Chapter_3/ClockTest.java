@@ -1,4 +1,4 @@
-package Chapter_3;
+package Deitel.Chapter_3;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;

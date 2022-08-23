@@ -1,8 +1,6 @@
-package chapter_4;
+package Deitel.chapter_4;
 
 import java.util.Scanner;
-
-import static chapter_4.Average.counter;
 
 public class GasMileage {
     private static Scanner input = new Scanner(System.in);

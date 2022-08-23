@@ -1,4 +1,4 @@
-package chapter_7;
+package Deitel.chapter_7;
 
 public class GradeBook {
     private String courseName;

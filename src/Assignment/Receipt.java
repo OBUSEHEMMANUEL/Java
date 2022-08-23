@@ -10,13 +10,14 @@ public class Receipt {
     private int payment;
 
 
-    public Receipt (String userItemBought, int piecesQuantity, double pricePerUnit, double total ){
+    public Receipt(String userItemBought, int piecesQuantity, double pricePerUnit, double total) {
         this.userItemBought = userItemBought;
         this.itemQuantity = piecesQuantity;
         this.pricePerUnit = pricePerUnit;
         this.total = total;
     }
-    public void setCustomerName(String customerName){
+
+    public void setCustomerName(String customerName) {
         this.customerName = customerName;
     }
 
@@ -31,14 +32,11 @@ public class Receipt {
     public int getItemQuantity() {
         return itemQuantity;
     }
-    public void printFormat(){
-    System.out.printf("%15s %15d %15.2f %15.2f",userItemBought, itemQuantity,pricePerUnit,total);
-    System.out.println();
-}
-//public int collectCash(){
-//    System.out.println("How much did the customer pay");
-//    payment = input.nextInt();
 
+    public void printFormat() {
+        System.out.printf("%15s %15d %15.2f %15.2f", userItemBought, itemQuantity, pricePerUnit, total);
+        System.out.println();
+    }
 }
 
 

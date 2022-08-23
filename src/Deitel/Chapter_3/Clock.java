@@ -1,4 +1,4 @@
-package Chapter_3;
+package Deitel.Chapter_3;
 
 
 
@@ -10,10 +10,10 @@ public class Clock {
     public Clock(int hour,int minute,int second){
         if(second < 24 && second > 0) {
             this.second = second;
-        }
+        }else
         if (minute > 0 && minute < 24) {
             this.minute = minute;
-        }
+        }else
         if (hour < 24 && hour > 0){
             this.hour = hour;
         }

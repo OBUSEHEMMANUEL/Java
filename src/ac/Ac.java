@@ -1,43 +1,43 @@
 package ac;
 
-import javax.swing.*;
-
 public class Ac {
-    public String isOn (String on) throws Exception {
-        if (on == "on") {
-            System.out.println("Ac is on");
+    private String on;
+    private String off;
+    private int temp = 18;
+    public void isOn (String on){
+        this.on = on;
         }
-        else {
-            throw new Exception("please turn on Ac properly");
+        public String getIsOn (){
+            return on;
         }
-        return on;
-    }
-    public String isOff (String off) throws Exception {
-        if (off == "off"){
-            System.out.println("AC is off");
+
+
+    public void isOff (String off)  {
+         this.off = off;
         }
-        else{
-            throw new Exception("please turn off Ac properly");
-        }
+        public String getIsOff (){
         return off;
     }
-    public int increaseTemp(int temp) throws Exception {
-        if (temp > 30){
-            temp = 30;
+    public int increaseTemp() {
+        if
+
+        (temp >= 30) {
+            return 30;
+
+
         }
-        else{
-            System.out.println("Temperature increase to: "+ temp);
-        }
+        temp++;
         return temp;
+
     }
 
-    public int decreaseTemp(int temp) throws Exception {
-        if (temp < 16) {
-          //  throw new Exception("Reached limit");
-            temp = 16;
-        } else{
-            System.out.println("Temperature decrease to: "+ temp);
+    public int decreaseTemp(){
+        if (temp < 17) {
+            return 16;
+
         }
+
+        temp--;
          return temp;
     }
 }

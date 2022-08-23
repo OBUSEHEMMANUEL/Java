@@ -28,20 +28,12 @@ public static void testing() {
     System.out.println("1.\n A.expend energy, enjoy group B. conserve energy, enjoy one-on-one");
     String answers = input.nextLine();
     switch (answers) {
-        case "A", "a":
-            aCount++;
-            break;
-        case "B", "b":
-            bCount++;
-            break;
-        default:
-            if (answers.equals("A") || answers.equals("B")) {
-
-                options();
-            } else {
-                System.out.println("invalid input");
-                testing();
-            }
+        case "A", "a" -> aCount++;
+        case "B", "b" -> bCount++;
+        default -> {
+            System.out.println("invalid input");
+            testing();
+        }
     }
 }
     public static void options() {

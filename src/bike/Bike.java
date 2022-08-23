@@ -152,7 +152,6 @@ public class Bike {
 
         if (speedLimit >= 0 && speedLimit <= 20) {
             System.out.println("BETWEEN YOUR SPEED RANGE");
-            speedLimit--;
         }
 
         if (speedLimit >= 21 && speedLimit <= 30) {

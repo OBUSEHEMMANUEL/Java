@@ -1,12 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="66677d1c-f6bc-4b73-9ed8-12c9527b8111" name="Changes" comment="GUESS GAME">
-      <change afterPath="$PROJECT_DIR$/src/Aircondition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bike/Bike.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/AirconditionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/bike/BikeTest.java" afterDir="false" />
+    <list default="true" id="66677d1c-f6bc-4b73-9ed8-12c9527b8111" name="Changes" comment="motor">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aircondition.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Assignment/Myers_Briggs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assignment/Myers_Briggs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Assignment/Receipt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assignment/Receipt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Assignment/ReceiptTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assignment/ReceiptTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapter_3/Clock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Deitel/Chapter_3/Clock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ac/Ac.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ac/Ac.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bike/Bike.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bike/Bike.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_4/GasMileage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Deitel/chapter_4/GasMileage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_7/GradeBook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Deitel/chapter_7/GradeBook.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_7/GradeBookTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Deitel/chapter_7/GradeBookTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/AirconditionTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/Chapter_3/ClockTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/Deitel/Chapter_3/ClockTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/ac/AcTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/ac/AcTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/bike/BikeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/bike/BikeTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,8 +27,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="Class" />
         <option value="JUnit5 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -47,99 +57,111 @@
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
     &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
-    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;
+    &quot;full.screen.before.presentation.mode&quot;: &quot;false&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.appearance&quot;
   }
 }</component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="AccountAndBank" />
+      <recent name="chapter_7" />
+      <recent name="chapter_4" />
+      <recent name="RoundLoop" />
+      <recent name="testdriller" />
+    </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="AccountAndBank" />
+      <recent name="chapter_4" />
+      <recent name="chapter_7" />
+    </key>
     <key name="CreateTestDialog.RecentsKey">
-      <recent name="oop" />
-      <recent name="vehicle" />
-      <recent name="bike" />
-      <recent name="" />
-      <recent name="ac" />
+      <recent name="Assignment" />
+      <recent name="com.chibuzor.array" />
+      <recent name="com.classwork" />
+      <recent name="AccountAndBank" />
+      <recent name="com.classwork.chibuzo.Bank" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="tddClass" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.AcTest.test_increaseTemp">
-    <configuration name="AcTest.test_increaseTemp" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.LargestElement">
+    <configuration name="LargestElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.chibuzor.array.LargestElement" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ac.*" />
+          <option name="PATTERN" value="com.chibuzor.array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="ac" />
-      <option name="MAIN_CLASS_NAME" value="ac.AcTest" />
-      <option name="METHOD_NAME" value="test_increaseTemp" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BikeTest.test_decelerateGearOne" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="BikeUpdateTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="bike.*" />
+          <option name="PATTERN" value="Assignment.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="bike" />
-      <option name="MAIN_CLASS_NAME" value="bike.BikeTest" />
-      <option name="METHOD_NAME" value="test_decelerateGearOne" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ChildTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="oop.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="oop" />
-      <option name="MAIN_CLASS_NAME" value="oop.ChildTest" />
+      <option name="PACKAGE_NAME" value="Assignment" />
+      <option name="MAIN_CLASS_NAME" value="Assignment.BikeUpdateTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ChildTest.test_name" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="BikeUpdateTest.bikeCanChangeFromGear2ToGear3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="oop.*" />
+          <option name="PATTERN" value="Assignment.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="oop" />
-      <option name="MAIN_CLASS_NAME" value="oop.ChildTest" />
-      <option name="METHOD_NAME" value="test_name" />
+      <option name="PACKAGE_NAME" value="Assignment" />
+      <option name="MAIN_CLASS_NAME" value="Assignment.BikeUpdateTest" />
+      <option name="METHOD_NAME" value="bikeCanChangeFromGear2ToGear3" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MotorTest.test_gearFour" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="BikeUpdateTest.bikeCanChangeFromGear3ToGear4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="vehicle.*" />
+          <option name="PATTERN" value="Assignment.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="vehicle" />
-      <option name="MAIN_CLASS_NAME" value="vehicle.MotorTest" />
-      <option name="METHOD_NAME" value="test_gearFour" />
+      <option name="PACKAGE_NAME" value="Assignment" />
+      <option name="MAIN_CLASS_NAME" value="Assignment.BikeUpdateTest" />
+      <option name="METHOD_NAME" value="bikeCanChangeFromGear3ToGear4" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LargestElementTest.largestNumberTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.chibuzor.array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.chibuzor.array" />
+      <option name="MAIN_CLASS_NAME" value="com.chibuzor.array.LargestElementTest" />
+      <option name="METHOD_NAME" value="largestNumberTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -147,11 +169,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.AcTest.test_increaseTemp" />
-        <item itemvalue="JUnit.ChildTest.test_name" />
-        <item itemvalue="JUnit.ChildTest" />
-        <item itemvalue="JUnit.BikeTest.test_decelerateGearOne" />
-        <item itemvalue="JUnit.MotorTest.test_gearFour" />
+        <item itemvalue="JUnit.BikeUpdateTest.bikeCanChangeFromGear3ToGear4" />
+        <item itemvalue="Application.LargestElement" />
+        <item itemvalue="JUnit.LargestElementTest.largestNumberTest" />
+        <item itemvalue="JUnit.BikeUpdateTest.bikeCanChangeFromGear2ToGear3" />
+        <item itemvalue="JUnit.BikeUpdateTest" />
       </list>
     </recent_temporary>
   </component>
@@ -167,7 +189,33 @@
       <workItem from="1656169689753" duration="690000" />
       <workItem from="1656170416308" duration="39669000" />
       <workItem from="1656319460392" duration="23000" />
-      <workItem from="1656321503414" duration="13556000" />
+      <workItem from="1656321503414" duration="20128000" />
+      <workItem from="1656462125953" duration="1622000" />
+      <workItem from="1656502205868" duration="2808000" />
+      <workItem from="1656510123722" duration="2851000" />
+      <workItem from="1656525948175" duration="30000" />
+      <workItem from="1656531175763" duration="1090000" />
+      <workItem from="1656686367764" duration="33000" />
+      <workItem from="1656686510427" duration="26000" />
+      <workItem from="1656712514970" duration="80208000" />
+      <workItem from="1657164520580" duration="10900000" />
+      <workItem from="1657258146541" duration="225664000" />
+      <workItem from="1658342717401" duration="205369000" />
+      <workItem from="1659432111134" duration="520000" />
+      <workItem from="1659459590495" duration="32524000" />
+      <workItem from="1659685538240" duration="21579000" />
+      <workItem from="1659901989161" duration="29227000" />
+      <workItem from="1660145581880" duration="4597000" />
+      <workItem from="1660210490310" duration="18455000" />
+      <workItem from="1660240681821" duration="68000" />
+      <workItem from="1660343544805" duration="15927000" />
+      <workItem from="1660574624948" duration="26042000" />
+      <workItem from="1660774356864" duration="31000" />
+      <workItem from="1660776918197" duration="66000" />
+      <workItem from="1660822240597" duration="24263000" />
+      <workItem from="1660965350883" duration="33492000" />
+      <workItem from="1661230068288" duration="1751000" />
+      <workItem from="1661272250817" duration="710000" />
     </task>
     <task id="LOCAL-00001" summary="account">
       <created>1656170534536</created>
@@ -211,7 +259,21 @@
       <option name="project" value="LOCAL" />
       <updated>1656321609419</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="motor">
+      <created>1656431374585</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1656431374585</updated>
+    </task>
+    <task id="LOCAL-00008" summary="motor">
+      <created>1657889252762</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1657889252762</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -222,7 +284,13 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="false" />
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -233,21 +301,23 @@
     <MESSAGE value="push" />
     <MESSAGE value="AC test" />
     <MESSAGE value="GUESS GAME" />
-    <option name="LAST_COMMIT_MESSAGE" value="GUESS GAME" />
+    <MESSAGE value="motor" />
+    <option name="LAST_COMMIT_MESSAGE" value="motor" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/test/bike/BikeTest.java</url>
-          <line>34</line>
-          <properties class="bike.BikeTest" method="test_isOffInvalid">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="10" />
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Deitel/chapter_5/Pattern.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Java$ClockTest.ic" NAME="ClockTest Coverage Results" MODIFIED="1657795831884" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Chapter_3.*</FILTER>
+    </SUITE>
   </component>
 </project>
