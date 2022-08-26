@@ -1,22 +1,141 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="66677d1c-f6bc-4b73-9ed8-12c9527b8111" name="Changes" comment="motor">
+    <list default="true" id="66677d1c-f6bc-4b73-9ed8-12c9527b8111" name="Changes" comment="acUpdate">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AccountAndBank/Account1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AccountAndBank/Bank1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/ArrayCompare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/ArrayInput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/ArrayInputMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/ArrayOfNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/ArraySort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/ArraySort1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/ArraySortMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/ReverseArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/ReverseArrayReturn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment/DiaryCheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment/HighestNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment/HighestNumber2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment/SevenSegment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment/StackAnimal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment/StudentGrade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Deitel/Chapter_11/DivideByZeroWithExceptionHandling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Deitel/Chapter_11/UsingExemption.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Deitel/Chapter_3/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Deitel/Chapter_3/Motors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Deitel/chapter_4/Average.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Deitel/chapter_4/CreditLimitCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Deitel/chapter_4/CreditLimitCalculatorMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Deitel/chapter_4/Items.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Deitel/chapter_4/LargerNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Deitel/chapter_4/SaleCommissionCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Deitel/chapter_4/SalesPerson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Deitel/chapter_4/TabularOutput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Deitel/chapter_4/TaxCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Deitel/chapter_4/TwoLargerNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Deitel/chapter_5/Pattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Deitel/chapter_5/Sum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Deitel/chapter_5/chapter_6/Craps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Deitel/chapter_5/chapter_6/RandomIntegers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Deitel/chapter_7/Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Deitel/chapter_7/ArrayC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Deitel/chapter_7/ArrayMultiDimension.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Deitel/chapter_7/ArraySort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Deitel/chapter_7/ArrayTransfer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Deitel/chapter_7/Cards.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Deitel/chapter_7/DeckOfCards.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Deitel/chapter_7/MyIntArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Deitel/chapter_7/PassArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Deitel/chapter_7/StudentPoll.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Deitel/chapter_7/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Deitel/chapter_7Turtle/Pen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Deitel/chapter_7Turtle/PenPosition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Deitel/chapter_7Turtle/SketchPad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Deitel/chapter_7Turtle/Turtle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Deitel/chapter_8/Time.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Deitel/chapter_8/Time1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Deitel/chapter_8/Time1Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Deitel/chapter_9/BasePlusCommissionEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Deitel/chapter_9/CommissionEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Deitel/chapter_9/CommissionEmployeeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Deitel/chapter_9Exercise/CommisionEmployeeTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Deitel/chapter_9Exercise/CommissionEmployee1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Deitel/chapter_9Exercise/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Deitel/chapter_9Exercise/HourlyEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Deitel/chapter_9Exercise/HourlyEmployeeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Kelechi/AdditionAndSUbtracttion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Kelechi/Argument.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Kelechi/FunctionThatAdds1Number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Kelechi/Functions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Kelechi/MinutesAndSeconds.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Kelechi/Sub.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Kelechi/Sum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MobilePhone/Contact.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MobilePhone/MobilePhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MultiplicationTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ac/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ac/sale.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/christmasSong/ChristmasSong.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Asignment/diary/Database.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Asignment/diary/Diary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Asignment/diary/Entry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/chibuzor/array/LargestElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/chibuzor/array/Native.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/classwork/chibuzo/Bank/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/classwork/chibuzo/Bank/Bank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/classwork/timbachuk/Hambuger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/classwork/timbachuk/HealthyBurger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/classwork/work/ArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/classwork/work/Factors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/classwork/work/List.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/classwork/work/ReverseNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/polymorphism/timbachuk/car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/timbachuk/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/timbachuk/AccountMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/timbachuk/Printer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/timbachuk/PrinterMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/timbachuk/VipCustomers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/timbachuk/com/timbachuk/MinElementChallenge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/example/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/example/ArrayOfNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/example/Number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/example/NumberTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/grade/Grade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hotelManagementSystem/UnicornHotel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/patterns/Pattern2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/patterns/Patterns.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/patterns/pattern3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/testdriller/TestDriller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vehicle/Motor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/videotutoriials/DescendingOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/videotutoriials/MyArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/AccountAndBank/AccountTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/AccountAndBank/Bank1Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/Deitel/Chapter_3/MotorsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/Deitel/chapter_4/SaleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/Deitel/chapter_7/TurtleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/com/chibuzor/array/LargestElementTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/com/chibuzor/array/NativeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/com/classwork/ArrayListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/com/classwork/FactorsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/com/classwork/ReverseNumberTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/com/classwork/chibuzo/Bank/AccountTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/com/classwork/chibuzo/Bank/BankTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/kelechiTest/ArgumentTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/kelechiTest/FunctionsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/kelechiTest/MinutesAndSecondTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/kelechiTest/SubTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/kelechiTest/SumTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/testdriller/TestDrillerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/unicornManagementSystem/UnicornHotelTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/vehicle/MotorTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Aircondition.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Assignment/Myers_Briggs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assignment/Myers_Briggs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Assignment/Receipt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assignment/Receipt.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Assignment/ReceiptTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assignment/ReceiptTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter_3/Clock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Deitel/Chapter_3/Clock.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ac/Ac.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ac/Ac.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/bike/Bike.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bike/Bike.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter_4/GasMileage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Deitel/chapter_4/GasMileage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter_7/GradeBook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Deitel/chapter_7/GradeBook.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter_7/GradeBookTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Deitel/chapter_7/GradeBookTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/AirconditionTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/Chapter_3/ClockTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/Deitel/Chapter_3/ClockTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/ac/AcTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/ac/AcTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/bike/BikeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/bike/BikeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/ac/AcTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/Assignment/ac/AcTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/ac/AcUpdate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ac/AcUpdate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/ac/AcUpdateTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/Assignment/ac/AcUpdateTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/bike/BikeUpdateTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/bike/BikeUpdateTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,8 +145,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="JUnit5 Test Class" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -58,6 +177,7 @@
     &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
     &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
     &quot;full.screen.before.presentation.mode&quot;: &quot;false&quot;,
+    &quot;last_directory_selection&quot;: &quot;C:/Users/user/IdeaProjects/Java/src&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.appearance&quot;
@@ -65,19 +185,24 @@
 }</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
-      <recent name="AccountAndBank" />
-      <recent name="chapter_7" />
-      <recent name="chapter_4" />
-      <recent name="RoundLoop" />
-      <recent name="testdriller" />
+      <recent name="Television" />
+      <recent name="pollingExercise" />
+      <recent name="fairtaxcalculator" />
+      <recent name="com.classwork.chibuzo.Bank" />
+      <recent name="turtle" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="turtle" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.classwork.chibuzo.Bank" />
+      <recent name="ac" />
+      <recent name="bike" />
       <recent name="AccountAndBank" />
       <recent name="chapter_4" />
-      <recent name="chapter_7" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
       <recent name="Assignment" />
@@ -90,78 +215,81 @@
       <recent name="tddClass" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.LargestElement">
-    <configuration name="LargestElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.chibuzor.array.LargestElement" />
+  <component name="RunManager" selected="JUnit.TelevisionTest.muteTest">
+    <configuration name="TelevisionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.chibuzor.array.*" />
+          <option name="PATTERN" value="Television.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BikeUpdateTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Assignment.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="Assignment" />
-      <option name="MAIN_CLASS_NAME" value="Assignment.BikeUpdateTest" />
+      <option name="PACKAGE_NAME" value="Television" />
+      <option name="MAIN_CLASS_NAME" value="Television.TelevisionTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BikeUpdateTest.bikeCanChangeFromGear2ToGear3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TelevisionTest.muteTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Assignment.*" />
+          <option name="PATTERN" value="Television.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Assignment" />
-      <option name="MAIN_CLASS_NAME" value="Assignment.BikeUpdateTest" />
-      <option name="METHOD_NAME" value="bikeCanChangeFromGear2ToGear3" />
+      <option name="PACKAGE_NAME" value="Television" />
+      <option name="MAIN_CLASS_NAME" value="Television.TelevisionTest" />
+      <option name="METHOD_NAME" value="muteTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BikeUpdateTest.bikeCanChangeFromGear3ToGear4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TelevisionTest.televisionCanBeSetTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Assignment.*" />
+          <option name="PATTERN" value="Television.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Assignment" />
-      <option name="MAIN_CLASS_NAME" value="Assignment.BikeUpdateTest" />
-      <option name="METHOD_NAME" value="bikeCanChangeFromGear3ToGear4" />
+      <option name="PACKAGE_NAME" value="Television" />
+      <option name="MAIN_CLASS_NAME" value="Television.TelevisionTest" />
+      <option name="METHOD_NAME" value="televisionCanBeSetTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LargestElementTest.largestNumberTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TelevisionTest.televisionCanIncreaseVolume" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.chibuzor.array.*" />
+          <option name="PATTERN" value="Television.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.chibuzor.array" />
-      <option name="MAIN_CLASS_NAME" value="com.chibuzor.array.LargestElementTest" />
-      <option name="METHOD_NAME" value="largestNumberTest" />
+      <option name="PACKAGE_NAME" value="Television" />
+      <option name="MAIN_CLASS_NAME" value="Television.TelevisionTest" />
+      <option name="METHOD_NAME" value="televisionCanIncreaseVolume" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TelevisionTest.televisionCanReduceVolume" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Television.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Television" />
+      <option name="MAIN_CLASS_NAME" value="Television.TelevisionTest" />
+      <option name="METHOD_NAME" value="televisionCanReduceVolume" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -169,11 +297,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.BikeUpdateTest.bikeCanChangeFromGear3ToGear4" />
-        <item itemvalue="Application.LargestElement" />
-        <item itemvalue="JUnit.LargestElementTest.largestNumberTest" />
-        <item itemvalue="JUnit.BikeUpdateTest.bikeCanChangeFromGear2ToGear3" />
-        <item itemvalue="JUnit.BikeUpdateTest" />
+        <item itemvalue="JUnit.TelevisionTest.muteTest" />
+        <item itemvalue="JUnit.TelevisionTest" />
+        <item itemvalue="JUnit.TelevisionTest.televisionCanReduceVolume" />
+        <item itemvalue="JUnit.TelevisionTest.televisionCanIncreaseVolume" />
+        <item itemvalue="JUnit.TelevisionTest.televisionCanBeSetTest" />
       </list>
     </recent_temporary>
   </component>
@@ -215,7 +343,15 @@
       <workItem from="1660822240597" duration="24263000" />
       <workItem from="1660965350883" duration="33492000" />
       <workItem from="1661230068288" duration="1751000" />
-      <workItem from="1661272250817" duration="710000" />
+      <workItem from="1661272250817" duration="2696000" />
+      <workItem from="1661283540218" duration="30348000" />
+      <workItem from="1661450615546" duration="21167000" />
+      <workItem from="1662030404090" duration="51015000" />
+      <workItem from="1662188522833" duration="9715000" />
+      <workItem from="1662235482191" duration="25103000" />
+      <workItem from="1662396063565" duration="32539000" />
+      <workItem from="1662498584576" duration="38550000" />
+      <workItem from="1662732390842" duration="13669000" />
     </task>
     <task id="LOCAL-00001" summary="account">
       <created>1656170534536</created>
@@ -273,7 +409,35 @@
       <option name="project" value="LOCAL" />
       <updated>1657889252762</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="BikeUpdate">
+      <created>1661273011561</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1661273011561</updated>
+    </task>
+    <task id="LOCAL-00010" summary="BikeUpdate">
+      <created>1661397396603</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1661397396603</updated>
+    </task>
+    <task id="LOCAL-00011" summary="arrayShuffle">
+      <created>1661397530884</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1661397530884</updated>
+    </task>
+    <task id="LOCAL-00012" summary="acUpdate">
+      <created>1661478210385</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1661478210385</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -302,7 +466,11 @@
     <MESSAGE value="AC test" />
     <MESSAGE value="GUESS GAME" />
     <MESSAGE value="motor" />
-    <option name="LAST_COMMIT_MESSAGE" value="motor" />
+    <MESSAGE value="BikeUpdate" />
+    <MESSAGE value="array.shuffle" />
+    <MESSAGE value="arrayShuffle" />
+    <MESSAGE value="acUpdate" />
+    <option name="LAST_COMMIT_MESSAGE" value="acUpdate" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -311,6 +479,11 @@
           <url>file://$PROJECT_DIR$/src/Deitel/chapter_5/Pattern.java</url>
           <line>2</line>
           <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/classwork/chibuzo/Bank/main.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="11" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

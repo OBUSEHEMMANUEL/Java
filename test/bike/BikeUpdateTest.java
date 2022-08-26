@@ -59,7 +59,6 @@ class BikeUpdateTest {
         bike.increaseSpeed();
         assertEquals(2,bike.getGear());
         assertEquals(21,bike.getSpeed());
-
     }
     @Test
     public void bikeCanAccelerateOnGearTwoTest(){
