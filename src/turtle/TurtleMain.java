@@ -33,6 +33,7 @@ public class TurtleMain {
            case "5" -> move();
            case "6" -> displayFloor();
            case "9" -> exit(9);
+           default -> openPage();
        }
     }
 
@@ -59,9 +60,12 @@ public class TurtleMain {
         turtleMain.openPage();
     }
     public void move(){
-        int moves = inputInt("Enter your Number of moves");
+
+        int moves = inputInt("Enter Number of Moves");
         turtle.move(moves,sketchpad);
+        scanner.nextLine();
         turtleMain.openPage();
+
     }
     public void displayFloor(){
         sketchpad.displayFloor();
@@ -69,7 +73,6 @@ public class TurtleMain {
     }
     public int inputInt(String moves){
         System.out.println(moves);
-        scanner.next();
         return scanner.nextInt();
     }
 }

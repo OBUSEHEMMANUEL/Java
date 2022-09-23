@@ -38,23 +38,18 @@ public class Turtle {
         else if(currentDirection == WEST) face(SOUTH);
         else if(currentDirection == SOUTH) face(EAST);
     }
-
     public Position getCurrentPosition() {
         return currentPosition;
     }
-
     private void move(int numberOfSteps) {
         if(currentDirection == NORTH) currentPosition.setRow(currentPosition.getRow() - numberOfSteps);
         else if(currentDirection == WEST) currentPosition.setColumn(currentPosition.getColumn() - numberOfSteps);
         else if(currentDirection == SOUTH) currentPosition.setRow(currentPosition.getRow() + numberOfSteps );
         else if(currentDirection == EAST) currentPosition.setColumn(currentPosition.getColumn() + numberOfSteps);
-
     }
-
     public void move(int numberOfSteps, Sketchpad sketchPad) {
         numberOfSteps = numberOfSteps -1;
         if (!isPenUp) writeOn(sketchPad, numberOfSteps);
-
         move(numberOfSteps);
     }
 
@@ -77,7 +72,6 @@ public class Turtle {
             for (int i = 0; i <= numberOfSteps; i++) {
                 floor[currentRow][currentColumn--] = 1;
             }
-
         }
         else if(currentDirection == NORTH) {
             for (int i = 0; i <= numberOfSteps; i++) {
