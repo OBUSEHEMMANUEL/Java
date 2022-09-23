@@ -1,11 +1,10 @@
 package turtleTest;
 
 
-import Deitel.chapter_7Turtle.SketchPad;
-import org.junit.jupiter.api.Assertions;
+import turtle.Sketchpad;
+import turtle.Turtle;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
-import turtle.*;
 import turtle.Position;
 
 import static org.junit.jupiter.api.Assertions.*;

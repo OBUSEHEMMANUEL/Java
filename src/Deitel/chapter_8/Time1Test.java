@@ -1,13 +1,26 @@
 package Deitel.chapter_8;
 
+import java.util.Scanner;
+
 public class Time1Test {
+    static Scanner scanner = new Scanner(System.in);
+public static int input(String prompt){
+    System.out.println(prompt);
+    return scanner.nextInt();
+}
+
     public static void main(String[] args) {
+
         Time1 time = new Time1();
+
+    int hour =input("Enter Hour");
+    int minute = input("Enter minute");
+    int second = input("Enter Second");
 
         displayTime("After time is created", time);
         System.out.println();
 
-        time.setTime(13,27,6);
+        time.setTime(hour,minute,second);
         displayTime("After calling set Time", time);
 
 try{

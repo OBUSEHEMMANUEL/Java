@@ -11,23 +11,23 @@ class ArrayListTest {
     List guitarString;
             @BeforeEach
             public void setUp(){
-        guitarString = new ArrayList();
+        guitarString = new ArrayList<>();
             }
     @Test
     public void newListIsEmptyTest(){
-        List list = new ArrayList();
+        List list = new ArrayList<>();
         assertTrue(list.isEmpty());
     }
     @Test
     public void addItemListIsNotEmpty(){
-        List list = new ArrayList();
+        List list = new ArrayList<>();
         list.add("G-String");
         assertFalse(list.isEmpty());
     }
 
     @Test
     public void addIteamListIsNotEmpty_SizeIsOneTest(){
-        List list = new ArrayList();
+        List list = new ArrayList<>();
         list.add("G-String");
         assertFalse(list.isEmpty());
         assertEquals(1,list.size());

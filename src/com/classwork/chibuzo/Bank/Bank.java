@@ -9,7 +9,6 @@ public class Bank {
         Account account = new Account((numberOfCustomer+1)+"", accountName,pin);
         accounts[numberOfCustomer] = account;
         numberOfCustomer++;
-
     }
 
     public int getNumberOFCustomers() {
@@ -21,7 +20,6 @@ public class Bank {
             if(account.getAccountNumber().equals(accountNumber))
                 return account;
         }
-
         return null;
     }
 

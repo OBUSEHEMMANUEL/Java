@@ -27,8 +27,7 @@ public void setup(){
         assertEquals(0,bankeAccount.getBalance("1234"));
         bankeAccount.deposit(2000);
         assertEquals(2000, bankeAccount.getBalance("1234"));
-
-    }
+}
 //    @Test
 //    public void cannotDepositNegativeAmountTest(){
 //

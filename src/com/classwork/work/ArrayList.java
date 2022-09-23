@@ -1,6 +1,6 @@
 package com.classwork.work;
 
-public class ArrayList implements List {
+public class ArrayList<S> implements List {
     private boolean isEmpty = true;
     private int count;
     private  String[] elements = new  String[5];
