@@ -1,71 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="66677d1c-f6bc-4b73-9ed8-12c9527b8111" name="Changes" comment="Turtle">
-      <change afterPath="$PROJECT_DIR$/Cars.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clients.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/ReverseString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AssignmentTDD/PhoneBook/PhoneBook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AssignmentTDD/PhoneBook/PhoneBookMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Deitel/chapter_14/Regex/Regex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Deitel/chapter_14/ReversedWord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Deitel/chapter_14/StringBuilderAppend.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Deitel/chapter_14/StringCompare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Deitel/chapter_14/wWordCombinator/WordCombinator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Deitel/chapter_15/CreateTextFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Deitel/chapter_15/FileAndDirectoryInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Deitel/chapter_15/Files/javaNioSample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Deitel/chapter_15/ReadTextFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Deitel/chapter_15/Streams.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Deitel/chapter_15/iostreams/FileOutputStreamSample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Deitel/chapter_15/iostreams/FileWriterSample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Deitel/chapter_15/iostreams/PrintStreamSample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Deitel/chapter_7/PollingExercise.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Diary/Diary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Diary/Entry.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Diary/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Television/Television.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/classwork/chibuzo/Bank/InsufficientFundException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/classwork/chibuzo/Bank/InvalidAmountException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/classwork/chibuzo/Bank/InvalidPinException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/classwork/chibuzo/Bank/main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/classwork/work/PrimeNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/classwork/work/SchoolComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/creditCardValidation/Card.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/creditCardValidation/CreditCardValidation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/creditCardValidation/IllegalCardException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fairtaxcalculator/FairTaxCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fairtaxcalculator/FairTaxException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fairtaxcalculator/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fairtaxcalculator/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nokia/DisplayTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pollingExercise/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pollingExercise/Poll.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pollingExercise/UserFitNoGetSense.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/regex/Regax.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/string/StringP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ticktactoe/TickTacToe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/volume/Cylinder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/volume/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/AssignmentTDD/PhoneBook/PhoneBookTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/Deitel/chapter_14/wWordCombinator/WordCombinatorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/Diary/DiaryTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/Diary/UserTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/Television/TelevisionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/creditCardValidation/CreditCardValidationTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/fairtaxcalculator/FairTaxCalculatorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/pollingExercise/PollTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+    <list default="true" id="66677d1c-f6bc-4b73-9ed8-12c9527b8111" name="Changes" comment="Merge branch 'main' of https://github.com/OBUSEHEMMANUEL/Java">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Assignment/DiaryCheck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assignment/DiaryCheck.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Deitel/chapter_8/Time1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Deitel/chapter_8/Time1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Deitel/chapter_8/Time1Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Deitel/chapter_8/Time1Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/classwork/chibuzo/Bank/Bank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/classwork/chibuzo/Bank/Bank.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/classwork/work/ArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/classwork/work/ArrayList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/com/classwork/ArrayListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/com/classwork/ArrayListTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/com/classwork/chibuzo/Bank/AccountTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/com/classwork/chibuzo/Bank/AccountTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/turtleTest/TurtleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/turtleTest/TurtleTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ticktactoe/TickTacToe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ticktactoe/TickTacToeDisplay.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,8 +14,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="Enum" />
         <option value="JUnit5 Test Class" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -116,11 +54,11 @@
 }</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="ticktactoe" />
       <recent name="Diary" />
       <recent name="AssignmentTDD.PhoneBook" />
       <recent name="creditCardValidation" />
       <recent name="Television" />
-      <recent name="pollingExercise" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -136,23 +74,23 @@
       <recent name="AccountAndBank" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="ticktactoe" />
       <recent name="Diary" />
       <recent name="Deitel.chapter_14.wWordCombinator" />
       <recent name="Assignment" />
       <recent name="com.chibuzor.array" />
-      <recent name="com.classwork" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="tddClass" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ReadTextFile">
-    <configuration name="CreateTextFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Deitel.chapter_15.CreateTextFile" />
+  <component name="RunManager" selected="Application.ticktactoe.TicTacToeMain">
+    <configuration name="ticktactoe.TicTacToeMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ticktactoe.TicTacToeMain" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Deitel.chapter_15.*" />
+          <option name="PATTERN" value="ticktactoe.SpaceTakenException" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -160,65 +98,77 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DiaryCheck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Assignment.DiaryCheck" />
+    <configuration name="PlayerTest.testThatPlayerCanWinOnRow1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Assignment.*" />
+          <option name="PATTERN" value="ticktactoe.SpaceTakenException" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="ticktactoe" />
+      <option name="MAIN_CLASS_NAME" value="ticktactoe.PlayerTest" />
+      <option name="METHOD_NAME" value="testThatPlayerCanWinOnRow1" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FileAndDirectoryInfo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Deitel.chapter_15.FileAndDirectoryInfo" />
+    <configuration name="PlayerTest.testThatPlayerCanWinOnRow2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Deitel.chapter_15.*" />
+          <option name="PATTERN" value="ticktactoe.SpaceTakenException" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="ticktactoe" />
+      <option name="MAIN_CLASS_NAME" value="ticktactoe.PlayerTest" />
+      <option name="METHOD_NAME" value="testThatPlayerCanWinOnRow2" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReadTextFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Deitel.chapter_15.ReadTextFile" />
+    <configuration name="PlayerTest.testThatPlayerCanWinOnRow3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Deitel.chapter_15.*" />
+          <option name="PATTERN" value="ticktactoe.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="ticktactoe" />
+      <option name="MAIN_CLASS_NAME" value="ticktactoe.PlayerTest" />
+      <option name="METHOD_NAME" value="testThatPlayerCanWinOnRow3" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="javaNioSample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Deitel.chapter_15.Files.javaNioSample" />
+    <configuration name="PlayerTest.testThatPlayersTied" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Deitel.chapter_15.Files.*" />
+          <option name="PATTERN" value="ticktactoe.SpaceTakenException" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="ticktactoe" />
+      <option name="MAIN_CLASS_NAME" value="ticktactoe.PlayerTest" />
+      <option name="METHOD_NAME" value="testThatPlayersTied" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ReadTextFile" />
-        <item itemvalue="Application.CreateTextFile" />
-        <item itemvalue="Application.DiaryCheck" />
-        <item itemvalue="Application.FileAndDirectoryInfo" />
-        <item itemvalue="Application.javaNioSample" />
+        <item itemvalue="Application.ticktactoe.TicTacToeMain" />
+        <item itemvalue="JUnit.PlayerTest.testThatPlayerCanWinOnRow3" />
+        <item itemvalue="JUnit.PlayerTest.testThatPlayerCanWinOnRow2" />
+        <item itemvalue="JUnit.PlayerTest.testThatPlayerCanWinOnRow1" />
+        <item itemvalue="JUnit.PlayerTest.testThatPlayersTied" />
       </list>
     </recent_temporary>
   </component>
@@ -282,7 +232,16 @@
       <workItem from="1663583502114" duration="13404000" />
       <workItem from="1663751064177" duration="1630000" />
       <workItem from="1663844657186" duration="11041000" />
-      <workItem from="1663944006129" duration="2207000" />
+      <workItem from="1663944006129" duration="3679000" />
+      <workItem from="1664192552373" duration="14618000" />
+      <workItem from="1664352793867" duration="7306000" />
+      <workItem from="1664555014580" duration="5272000" />
+      <workItem from="1664804344200" duration="18000" />
+      <workItem from="1664872994606" duration="19724000" />
+      <workItem from="1664903132740" duration="10163000" />
+      <workItem from="1665045852525" duration="13000" />
+      <workItem from="1665057069342" duration="2091000" />
+      <workItem from="1665090646042" duration="1944000" />
     </task>
     <task id="LOCAL-00001" summary="account">
       <created>1656170534536</created>
@@ -375,7 +334,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662793613507</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Merge branch 'main' of https://github.com/OBUSEHEMMANUEL/Java">
+      <created>1663947846985</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1663947846985</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -409,7 +375,8 @@
     <MESSAGE value="arrayShuffle" />
     <MESSAGE value="acUpdate" />
     <MESSAGE value="Turtle" />
-    <option name="LAST_COMMIT_MESSAGE" value="Turtle" />
+    <MESSAGE value="Merge branch 'main' of https://github.com/OBUSEHEMMANUEL/Java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge branch 'main' of https://github.com/OBUSEHEMMANUEL/Java" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
