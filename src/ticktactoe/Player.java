@@ -2,13 +2,22 @@ package ticktactoe;
 public class Player {
     private Board[][] board;
 
-    private final Value value;
-    private final String name;
+    private  Value value;
 
 
-    public Player(Value value, String name) {
+    private String playerName;
+
+    public Player() {
+
+    }
+
+    public Player(Value value, String playerName) {
         this.value = value;
-        this.name = name;
+        this.playerName = playerName;
+    }
+
+    public String getPlayerName() {
+        return playerName;
     }
 
     public void playGame(int position, Board board) {
