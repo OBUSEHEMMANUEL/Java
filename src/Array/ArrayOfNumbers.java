@@ -4,8 +4,10 @@ public class ArrayOfNumbers{
     static int[] array = {2,3,1,5,4,3};
 
     public static void main(String[] args) {
-        removeOneIndexAndAddTheRestMax();
-        removeOneIndexAndAddTheRestMin();
+//        removeOneIndexAndAddTheRestMax();
+//        removeOneIndexAndAddTheRestMin();
+        arrayNumberMax(array);
+        arrayNumberMin(array);
 
 
     }

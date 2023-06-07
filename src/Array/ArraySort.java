@@ -3,6 +3,10 @@ package Array;
 import java.util.Scanner;
 
 public class ArraySort {
+    public static void main(String[] args) {
+        int[] array = {5,4,2,7,3};
+        unsortedArray(array);
+    }
   public static void unsortedArray(int[] array){
       int temp = 0;
       for (int i = 0; i < array.length; i++) {

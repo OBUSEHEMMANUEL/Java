@@ -5,7 +5,7 @@ public class ArrayInputMain {
         int[] array =new int[6];
         System.out.println("Array number");
         ArrayInput.inputDigits(array);
-        System.out.println("sorting arry");
+        System.out.println("sorting array");
         ArrayInput.sort(array);
 
 //        int[] i = new int[0];

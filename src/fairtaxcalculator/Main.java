@@ -16,13 +16,13 @@ public class Main {
            String productname = scanner.next();
               scanner.nextLine();
             System.out.printf("PRICE of %s", productname);
-            Double productPrice = scanner.nextDouble();
+            double productPrice = scanner.nextDouble();
             Product product = new Product(productname,productPrice);
          fairTaxCalculator.calculateTotalPrice(product.getPrice());
         }
         double grandPrice = fairTaxCalculator.getTotalPrice();
        double grandTotal = fairTaxCalculator.calculateTax(grandPrice);
-        System.out.printf("pay up tax of %d", grandTotal);
+        System.out.printf("pay up tax of %f", grandTotal);
 
     }
 }

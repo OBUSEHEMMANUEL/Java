@@ -3,7 +3,7 @@ package com.classwork.work;
 public class Factors {
        public static void main(String[] args) {
       Factors factor = new Factors();
-      boolean number=  factor.primeNumber(13);
+      var number=  factor.factors(13);
            System.out.println(number);
 
  }

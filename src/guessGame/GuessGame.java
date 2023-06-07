@@ -11,7 +11,7 @@ public class GuessGame {
             System.out.println("YOUR ARE CORRECT");
         }
         if (number >= 60 && number  <= 66){
-            System.out.println("YOU ARE LITTLE BELOW TO NUMBER");
+System.out.println("YOU ARE LITTLE BELOW TO NUMBER");
         }
         if (number >= 68 && number <= 75){
             System.out.println("YOU ARE LITTLE ABOVE NUMBER");

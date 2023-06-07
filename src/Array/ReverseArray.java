@@ -8,13 +8,13 @@ public class ReverseArray {
 //        System.out.println(Arrays.toString(array));
 //        reverse(array);
 //        System.out.println(Arrays.toString(array));
-        int[] array ={1,2,3,3,4,5};
+        int[] array ={1,2,3,3,4,5,6,7};
       // boolean print = spiltArray(array);
        // System.out.println(print);
         System.out.println(Arrays.toString(reverse(array)));
     }
     public static int[] reverse(int[] number){
-        int temp = 0;
+        int temp;
         int index = (number.length-1);
         int halfArray = number.length/2;
         for (int i = 0; i < halfArray; i++) {

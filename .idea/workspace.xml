@@ -2,10 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="66677d1c-f6bc-4b73-9ed8-12c9527b8111" name="Changes" comment="Merge branch 'main' of https://github.com/OBUSEHEMMANUEL/Java">
+      <change afterPath="$PROJECT_DIR$/src/Deitel/chapter_17/examples/Example10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Deitel/chapter_17/examples/Example11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Deitel/chapter_17/examples/Example12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Deitel/chapter_17/examples/Example13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Deitel/chapter_17/examples/Example14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Deitel/chapter_17/examples/Example6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Deitel/chapter_17/examples/Example7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Deitel/chapter_17/examples/Example8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Deitel/chapter_17/examples/Example9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Deitel/chapter_17/examples/Woman.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ticktactoe/Board.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ticktactoe/Board.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ticktactoe/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ticktactoe/Player.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ticktactoe/TicTacToeMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ticktactoe/TicTacToeMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Array/ArrayInputMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array/ArrayInputMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Array/ArrayOfNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array/ArrayOfNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Array/ArraySort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array/ArraySort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Array/ReverseArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array/ReverseArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ac/sale.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ac/sale.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/classwork/work/Factors.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/classwork/work/Factors.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/polymorphism/timbachuk/car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fairtaxcalculator/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fairtaxcalculator/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/guessGame/GuessGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/guessGame/GuessGame.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,9 +32,10 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
+        <option value="package-info" />
         <option value="Enum" />
         <option value="JUnit5 Test Class" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -44,23 +62,28 @@
     &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;ToolWindowRun.ShowToolbar&quot;: &quot;false&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
     &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
     &quot;full.screen.before.presentation.mode&quot;: &quot;false&quot;,
     &quot;last_directory_selection&quot;: &quot;C:/Users/user/IdeaProjects/Java/src&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/user/Downloads/openfabric-test&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
     &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.appearance&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="designPatterns.observerPattern" />
+      <recent name="TortoiseAndJHares" />
+      <recent name="HugeIntegers" />
+      <recent name="com.collections.timbachuk" />
       <recent name="ticktactoe" />
-      <recent name="Diary" />
-      <recent name="AssignmentTDD.PhoneBook" />
-      <recent name="creditCardValidation" />
-      <recent name="Television" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -76,23 +99,23 @@
       <recent name="AccountAndBank" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="StringBuilder" />
+      <recent name="HugeIntegers" />
+      <recent name="com.collections.timbachuk.theatre" />
       <recent name="com.chibuzor.array" />
       <recent name="ticktactoe" />
-      <recent name="Diary" />
-      <recent name="Deitel.chapter_14.wWordCombinator" />
-      <recent name="Assignment" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="tddClass" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ticktactoe.TicTacToeMain">
-    <configuration name="BinaryTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Deitel.chapter_16.BinaryTest" />
+  <component name="RunManager" selected="Application.StreamsOfLine">
+    <configuration name="CreateStreamObject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lambdaExpressons.java_8_stream_tutorial.CreateStreamObject" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Deitel.chapter_16.*" />
+          <option name="PATTERN" value="lambdaExpressons.java_8_stream_tutorial.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +123,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CollectionTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Deitel.chapter_16.CollectionTest" />
+    <configuration name="MethodReferenceDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lambdaExpressons.methodRef.MethodReferenceDemo2" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Deitel.chapter_16.*" />
+          <option name="PATTERN" value="lambdaExpressons.methodRef.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,12 +136,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Deitel.chapter_16.ListTest" />
+    <configuration name="StreamFilter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lambdaExpressons.java_8_stream_tutorial.StreamFilter" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Deitel.chapter_16.*" />
+          <option name="PATTERN" value="lambdaExpressons.java_8_stream_tutorial.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,12 +149,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ticktactoe.TicTacToeMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ticktactoe.TicTacToeMain" />
+    <configuration name="StreamListSorting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lambdaExpressons.streamListSorting.StreamListSorting" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ticktactoe.SpaceTakenException" />
+          <option name="PATTERN" value="lambdaExpressons.streamListSorting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,29 +162,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PlayerTest.testThatPlayersTied" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="StreamsOfLine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Deitel.chapter_17.textbookExample.Streams.StreamsOfLine" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ticktactoe.*" />
+          <option name="PATTERN" value="Deitel.chapter_17.textbookExample.Streams.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="ticktactoe" />
-      <option name="MAIN_CLASS_NAME" value="ticktactoe.PlayerTest" />
-      <option name="METHOD_NAME" value="testThatPlayersTied" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ticktactoe.TicTacToeMain" />
-        <item itemvalue="Application.BinaryTest" />
-        <item itemvalue="JUnit.PlayerTest.testThatPlayersTied" />
-        <item itemvalue="Application.CollectionTest" />
-        <item itemvalue="Application.ListTest" />
+        <item itemvalue="Application.StreamsOfLine" />
+        <item itemvalue="Application.StreamListSorting" />
+        <item itemvalue="Application.StreamFilter" />
+        <item itemvalue="Application.CreateStreamObject" />
+        <item itemvalue="Application.MethodReferenceDemo2" />
       </list>
     </recent_temporary>
   </component>
@@ -239,7 +259,38 @@
       <workItem from="1665489803324" duration="13260000" />
       <workItem from="1665596720618" duration="3600000" />
       <workItem from="1665635153417" duration="5078000" />
-      <workItem from="1665708851137" duration="19509000" />
+      <workItem from="1665708851137" duration="22264000" />
+      <workItem from="1665832889465" duration="4625000" />
+      <workItem from="1666239787375" duration="1636000" />
+      <workItem from="1666269351969" duration="1536000" />
+      <workItem from="1666707837005" duration="3874000" />
+      <workItem from="1666760891761" duration="3689000" />
+      <workItem from="1667319352056" duration="23190000" />
+      <workItem from="1667716566255" duration="8897000" />
+      <workItem from="1667775006054" duration="49390000" />
+      <workItem from="1667981146867" duration="46493000" />
+      <workItem from="1668216708790" duration="27060000" />
+      <workItem from="1668314433837" duration="22823000" />
+      <workItem from="1668451945488" duration="10254000" />
+      <workItem from="1669045804903" duration="344000" />
+      <workItem from="1669110302281" duration="44160000" />
+      <workItem from="1669666540171" duration="1848000" />
+      <workItem from="1672248341462" duration="3176000" />
+      <workItem from="1673521118260" duration="876000" />
+      <workItem from="1673602680105" duration="1184000" />
+      <workItem from="1674027353150" duration="593000" />
+      <workItem from="1674853833158" duration="788000" />
+      <workItem from="1677645187405" duration="581000" />
+      <workItem from="1677731603452" duration="3444000" />
+      <workItem from="1677847826180" duration="195000" />
+      <workItem from="1679343461474" duration="1854000" />
+      <workItem from="1679366638028" duration="1059000" />
+      <workItem from="1679692356658" duration="13753000" />
+      <workItem from="1679856745198" duration="7570000" />
+      <workItem from="1679932243724" duration="583000" />
+      <workItem from="1680660508399" duration="5725000" />
+      <workItem from="1681399370832" duration="1171000" />
+      <workItem from="1685961503936" duration="29912000" />
     </task>
     <task id="LOCAL-00001" summary="account">
       <created>1656170534536</created>
@@ -353,7 +404,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665113447982</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Merge branch 'main' of https://github.com/OBUSEHEMMANUEL/Java">
+      <created>1665799250285</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1665799250285</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -397,6 +455,11 @@
           <url>file://$PROJECT_DIR$/src/Deitel/chapter_5/Pattern.java</url>
           <line>2</line>
           <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/classwork/work/SchoolComparator.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="7" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
