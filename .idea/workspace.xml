@@ -2,27 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="66677d1c-f6bc-4b73-9ed8-12c9527b8111" name="Changes" comment="Merge branch 'main' of https://github.com/OBUSEHEMMANUEL/Java">
-      <change afterPath="$PROJECT_DIR$/src/Deitel/chapter_17/examples/Example10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Deitel/chapter_17/examples/Example11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Deitel/chapter_17/examples/Example12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Deitel/chapter_17/examples/Example13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Deitel/chapter_17/examples/Example14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Deitel/chapter_17/examples/Example6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Deitel/chapter_17/examples/Example7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Deitel/chapter_17/examples/Example8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Deitel/chapter_17/examples/Example9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Deitel/chapter_17/examples/Woman.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array/ArrayInputMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array/ArrayInputMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Array/ArrayOfNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array/ArrayOfNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array/ArraySort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array/ArraySort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Array/ReverseArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array/ReverseArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ac/sale.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ac/sale.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/classwork/work/Factors.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/classwork/work/Factors.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/polymorphism/timbachuk/car.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fairtaxcalculator/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fairtaxcalculator/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/guessGame/GuessGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/guessGame/GuessGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Array/ReverseString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array/ReverseString.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,13 +92,13 @@
       <recent name="tddClass" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.StreamsOfLine">
-    <configuration name="CreateStreamObject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lambdaExpressons.java_8_stream_tutorial.CreateStreamObject" />
+  <component name="RunManager" selected="Application.Palindrome">
+    <configuration name="ArraySort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array.ArraySort" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lambdaExpressons.java_8_stream_tutorial.*" />
+          <option name="PATTERN" value="Array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MethodReferenceDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lambdaExpressons.methodRef.MethodReferenceDemo2" />
+    <configuration name="Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrayPractise.Palindrome" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lambdaExpressons.methodRef.*" />
+          <option name="PATTERN" value="arrayPractise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,12 +119,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StreamFilter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lambdaExpressons.java_8_stream_tutorial.StreamFilter" />
+    <configuration name="ReverseArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array.ReverseArray" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lambdaExpressons.java_8_stream_tutorial.*" />
+          <option name="PATTERN" value="Array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -149,12 +132,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StreamListSorting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lambdaExpressons.streamListSorting.StreamListSorting" />
+    <configuration name="ReverseString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array.ReverseString" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lambdaExpressons.streamListSorting.*" />
+          <option name="PATTERN" value="Array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -162,12 +145,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StreamsOfLine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Deitel.chapter_17.textbookExample.Streams.StreamsOfLine" />
+    <configuration name="SortingArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrayPractise.SortingArray" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Deitel.chapter_17.textbookExample.Streams.*" />
+          <option name="PATTERN" value="arrayPractise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -177,11 +160,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.StreamsOfLine" />
-        <item itemvalue="Application.StreamListSorting" />
-        <item itemvalue="Application.StreamFilter" />
-        <item itemvalue="Application.CreateStreamObject" />
-        <item itemvalue="Application.MethodReferenceDemo2" />
+        <item itemvalue="Application.Palindrome" />
+        <item itemvalue="Application.ReverseString" />
+        <item itemvalue="Application.ReverseArray" />
+        <item itemvalue="Application.SortingArray" />
+        <item itemvalue="Application.ArraySort" />
       </list>
     </recent_temporary>
   </component>
@@ -290,7 +273,14 @@
       <workItem from="1679932243724" duration="583000" />
       <workItem from="1680660508399" duration="5725000" />
       <workItem from="1681399370832" duration="1171000" />
-      <workItem from="1685961503936" duration="29912000" />
+      <workItem from="1685961503936" duration="38304000" />
+      <workItem from="1686170288932" duration="16000" />
+      <workItem from="1686171936236" duration="48000" />
+      <workItem from="1686979034482" duration="10142000" />
+      <workItem from="1687148655324" duration="664000" />
+      <workItem from="1687250882085" duration="6170000" />
+      <workItem from="1687273227638" duration="20310000" />
+      <workItem from="1687348263230" duration="1960000" />
     </task>
     <task id="LOCAL-00001" summary="account">
       <created>1656170534536</created>
@@ -411,7 +401,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665799250285</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Merge branch 'main' of https://github.com/OBUSEHEMMANUEL/Java">
+      <created>1686098577594</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1686098577594</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -460,6 +457,11 @@
           <url>file://$PROJECT_DIR$/src/com/classwork/work/SchoolComparator.java</url>
           <line>16</line>
           <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Array/ReverseString.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="8" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

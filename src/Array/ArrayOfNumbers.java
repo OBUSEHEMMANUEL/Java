@@ -1,13 +1,16 @@
 package Array;
 
+import java.util.Arrays;
+
 public class ArrayOfNumbers{
-    static int[] array = {2,3,1,5,4,3};
+    static int[] array = {3,3,1,5,4,3};
 
     public static void main(String[] args) {
 //        removeOneIndexAndAddTheRestMax();
 //        removeOneIndexAndAddTheRestMin();
-        arrayNumberMax(array);
-        arrayNumberMin(array);
+//        arrayNumberMax(array);
+//        arrayNumberMin(array);
+        System.out.println(Arrays.toString(removeOneIndexAndAddTheRest(array)));
 
 
     }
@@ -34,20 +37,34 @@ public class ArrayOfNumbers{
 
         return min;
     }
-    public static int [] removeOneIndexAndAddTheRest(int[] number){
-        int total =0;
-        int count = 0;
-        int[] totals = new int[number.length];
+//    public static int [] removeOneIndexAndAddTheRest(int[] number){
+//        int total =0;
+//        int count = 0;
+//        int[] totals = new int[number.length];
+//
+//        for (int i = 0;  i < number.length; i++) {
+//            total += i;
+//        }
+//        for (int j = 0; j < number.length; j++) {
+//            totals[j] = total - j;
+//        }
+//        return totals;
+//    }
+    public static int[] removeOneIndexAndAddTheRest(int[] array){
+        int[] totals = new int[array.length];
+        int total;
+        for (int i = 0; i < array.length; i++) {
+            total=0;
+            for (int j = 0; j < array.length; j++) {
+                if (i!=j){
+                    total+=array[j];
+                }
 
-        for (int i = 0;  i < number.length; i++) {
-            total += i;
-        }
-        for (int j = 0; j < number.length; j++) {
-            totals[j] = total - j;
+            }
+            totals[i] = total;
         }
         return totals;
     }
-
     public static int removeOneIndexAndAddTheRestMax(){
         return arrayNumberMax(removeOneIndexAndAddTheRest(array));
     }

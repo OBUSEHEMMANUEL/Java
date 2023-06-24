@@ -4,26 +4,25 @@ import java.util.Arrays;
 
 public class ReverseString {
     public static void main(String[] args) {
-     String array = "HELLOWORD";
+//     String array = "HELLOWORD";
 //        System.out.println(reverseString(array));
-        reverseTest(array);
-      //  String array2 ="kiss";
-        //palindrome(array2);
-       // System.out.println(reverseString2(array));
+//        reverseTest(array);
+
+        String array2 ="madam";
+        System.out.println(palindrome(array2));
+
+        // System.out.println(reverseString2(array));
 //        compare();
 
     }
-    public static StringBuilder reverseString(String array){
-        String[] reverse = new String[array.length()];
-        StringBuilder result = new StringBuilder();
+    public static String reverseString(String array){
 
-        for(int i = 0; i < array.length(); i++){
-           reverse[i] = String.valueOf(array.charAt(i));
+        String word ="";
+        for (int i = array.length()-1; i >= 0 ; i--) {
+            word+= array.charAt(i);
+
         }
-        for (int i = reverse.length-1; i >= 0 ; i--) {
-            result.append(reverse[i]);
-        }
-        return result;
+        return word;
 
     }
     public static String reverseString2(String word) {
@@ -36,15 +35,15 @@ public class ReverseString {
    var   check =  s1.compareTo(s2);
         System.out.println(check);
     }
-    public static void palindrome(String array){
+    public static String palindrome(String array){
         String value = "";
         for (int i = array.length()-1; i >=0 ; i--) {
             value += array.charAt(i);
         }
-        if(value.toString().equalsIgnoreCase(array)){
-            System.out.println(value+ " This is palindrome");
+        if(value.equalsIgnoreCase(array)){
+           return value;
         }else {
-            System.out.println(value+ " This is not palindrome");
+            return "word not parlindrome";
         }
     }
     public static void reverseTest(String array){
