@@ -12,15 +12,15 @@ public class dsa1 {
         numbers.insert(50);
         numbers.insert(60);
         numbers.insert(70);
-//        numbers.insert(80);
-////        numbers.insert(90);
-//        numbers.insert(100);
-//        numbers.insert(110);
-//        numbers.insert(120);
-//        numbers.insert(130);
-//        numbers.insert(140);
-//        numbers.insert(150);
-//        numbers.insert(160);
+        numbers.insert(80);
+        numbers.insert(90);
+        numbers.insert(100);
+        numbers.insert(110);
+        numbers.insert(120);
+        numbers.insert(130);
+        numbers.insert(140);
+        numbers.insert(150);
+        numbers.insert(160);
 //        numbers.insert(170);
 //        numbers.insert(180);
 //        numbers.insert(190);
@@ -32,7 +32,7 @@ public class dsa1 {
 
 
 
-        numbers.removeAt(6);
+//        numbers.removeAt(6);
 //        System.out.println(numbers.indexOf(70));
 
         numbers.print();
